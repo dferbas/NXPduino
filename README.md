@@ -19,6 +19,8 @@ Enthusiasts, UI / UX designers and testers are welcome.
 - [FRDM-K64F](https://www.nxp.com/design/development-boards/freedom-development-boards/mcu-boards/freedom-development-platform-for-kinetis-k64-k63-and-k24-mcus:FRDM-K64F)
 
 <img src="/docs/images/frdm_k64f.jpg" width="400px" alt="frdm-k64f board">&nbsp;&nbsp;&nbsp;<img src="/docs/images/frdm_k64f_reve4_header_pinout.jpg" width="400px" alt="frdm-k64f pinout">
+- [FRDM-K64F-AGM01](https://www.nxp.com/design/development-boards/freedom-development-boards/sensors/sensor-toolbox-development-boards-for-a-9-axis-solution-using-fxas21002c-and-fxos8700cq:FRDM-STBC-AGM01) (set of FRDM-K64F + FRDM-STBC-AGM01) or [FRDM-STBC-AGM01](https://www.nxp.com/design/development-boards/freedom-development-boards/sensors/sensor-toolbox-development-boards-for-a-9-axis-solution-using-fxas21002c-and-fxos8700cq:FRDM-STBC-AGM01) (separate sensor shield)
+<img src="/docs/images/AGM01-1.webp" width="600px" alt="AGM01 sensor shield">
 
 <a id="lpc845-brk-board"></a>
 - [LPC845-BRK](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/lpc800-cortex-m0-plus-/lpc845-breakout-board-for-lpc84x-family-mcus:LPC845-BRK)
